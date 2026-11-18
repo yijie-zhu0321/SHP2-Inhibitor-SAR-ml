@@ -1,0 +1,212 @@
+{
+  "SDUY038": {
+    "smiles": "CC1(N)CCN(C(=O)C2=CC=C(SC3=CC=CC(Cl)=C3Cl)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 2, Compound_ID=SDUY038; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "1": {
+    "smiles": "CC1(N)CCN(C(=O)C2=CC=C(SC3=C(Cl)C(Cl)=CC=C3)S2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 5, Compound_ID=1; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "2": {
+    "smiles": "CC1(N)CCN(C(=O)C2=CC(Br)=C(SC3=C(Cl)C(Cl)=CC=C3)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 6, Compound_ID=2; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "3": {
+    "smiles": "COC(=O)C1=C(SC2=C(Cl)C(Cl)=CC=C2)OC(C(=O)N2CCC(C)(N)CC2)=C1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 7, Compound_ID=3; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "4": {
+    "smiles": "CC1(N)CCN(C(=O)C2=CC(N)=C(SC3=C(Cl)C(Cl)=CC=C3)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 8, Compound_ID=4; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "5": {
+    "smiles": "CC1=C(SC2=C(Cl)C(Cl)=CC=C2)OC(C(=O)N2CCC(C)(N)CC2)=C1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 9, Compound_ID=5; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "6": {
+    "smiles": "CC1(N)CCN(C(=O)C2=CC=C(OC3=CC=CC(Cl)=C3Cl)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 10, Compound_ID=6; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "7": {
+    "smiles": "CC1(N)CCN(C(=O)C2=CC=C(C(=O)C3=CC=CC(Cl)=C3Cl)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 11, Compound_ID=7; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "8": {
+    "smiles": "CC1(N)CCN(C(=O)C2=CC=C(CC3=CC=CC(Cl)=C3Cl)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 12, Compound_ID=8; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "9": {
+    "smiles": "CC1(N)CCN(C(=O)C2=CC=C(SC3=CC4=C(C=CC=C4)C=C3)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 13, Compound_ID=9; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "10": {
+    "smiles": "CC1(N)CCN(C(=O)C2=CC=C(SC3=C(Cl)C(Cl)=NC=C3)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 14, Compound_ID=10; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "11": {
+    "smiles": "CC1(N)CCN(C(=O)C2=CC=C(SC3=C(Cl)C(N)=NC=C3)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 15, Compound_ID=11; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "12": {
+    "smiles": "CC1(N)CCN(C(=O)C2=CC=C(SC3=C(C(F)(F)F)N=CC=C3)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 16, Compound_ID=12; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "13": {
+    "smiles": "CC1(N)CCN(C(=O)C2=CC=C(SC3=C(Cl)C(N)=CC=C3)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 17, Compound_ID=13; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "14": {
+    "smiles": "CC1(NC(=O)C2=CC=CC=C2)CCN(C(=O)C2=CC=C(SC3=CC=CC(Cl)=C3Cl)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 18, Compound_ID=14; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "15": {
+    "smiles": "O=C(C1=CC=C(SC2=C(Cl)C(Cl)=CC=C2)O1)N1CCNCC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 19, Compound_ID=15; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "16": {
+    "smiles": "NC1CCN(C(=O)C2=CC=C(SC3=C(Cl)C(Cl)=CC=C3)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 20, Compound_ID=16; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "17": {
+    "smiles": "NC1CCN(C(=O)C2=CC=C(SC3=C(Cl)C(Cl)=CC=C3)O2)C1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 21, Compound_ID=17; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): [(1, '?')]. Unspecified stereochemistry retained as supplied."
+  },
+  "18": {
+    "smiles": "NCC1CCN(C(=O)C2=CC=C(SC3=C(Cl)C(Cl)=CC=C3)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 22, Compound_ID=18; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "19": {
+    "smiles": "N[C@@H]1C2=C(C=CC=C2)CC12CCN(C(=O)C1=CC=C(SC3=C(Cl)C(Cl)=CC=C3)O1)CC2",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 23, Compound_ID=19; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): [(1, 'S')]. Unspecified stereochemistry retained as supplied."
+  },
+  "20": {
+    "smiles": "NC1=NC=CC(SC2=CC=C(C(=O)N3CCNCC3)O2)=C1Cl",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 24, Compound_ID=20; checked against Experimental Section p. 14795 and Supporting Information p. S36. CSV amino-chloropyridinyl structure retained; Table 3 dichloropyridinyl depiction treated as a suspected drawing error.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "21": {
+    "smiles": "NC1=NC=CC(SC2=CC=C(C(=O)N3CCC(N)CC3)O2)=C1Cl",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 25, Compound_ID=21; checked against Experimental Section p. 14795 and Supporting Information p. S37. CSV amino-chloropyridinyl structure retained; Table 3 dichloropyridinyl depiction treated as a suspected drawing error.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "22": {
+    "smiles": "NC1=NC=CC(SC2=CC=C(C(=O)N3CCC(N)C3)O2)=C1Cl",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 26, Compound_ID=22; checked against Experimental Section p. 14795 and Supporting Information p. S38. CSV amino-chloropyridinyl structure retained; Table 3 dichloropyridinyl depiction treated as a suspected drawing error.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): [(16, '?')]. Unspecified stereochemistry retained as supplied."
+  },
+  "23": {
+    "smiles": "NCC1CCN(C(=O)C2=CC=C(SC3=C(Cl)C(N)=NC=C3)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 27, Compound_ID=23; checked against Experimental Section p. 14795 and Supporting Information p. S39. CSV amino-chloropyridinyl structure retained; Table 3 dichloropyridinyl depiction treated as a suspected drawing error.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "24": {
+    "smiles": "NC1=NC=CC(SC2=CC=C(C(=O)N3CCC4(CC3)CC3=C(C=CC=C3)[C@H]4N)O2)=C1Cl",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 28, Compound_ID=24; checked against Experimental Section p. 14795 and Supporting Information p. S40. CSV amino-chloropyridinyl structure retained; Table 3 dichloropyridinyl depiction treated as a suspected drawing error.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): [(26, 'S')]. Unspecified stereochemistry retained as supplied."
+  },
+  "25": {
+    "smiles": "NC1=CC=CC(SC2=CC=C(C(=O)N3CCNCC3)O2)=C1Cl",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 29, Compound_ID=25; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "26": {
+    "smiles": "NC1=C(SC2=CC=C(C(=O)N3CCC(N)CC3)O2)C=CC=C1Cl",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 30, Compound_ID=26; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "27": {
+    "smiles": "NC1=CC=CC(SC2=CC=C(C(=O)N3CCC(N)C3)O2)=C1Cl",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 31, Compound_ID=27; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): [(16, '?')]. Unspecified stereochemistry retained as supplied."
+  },
+  "28": {
+    "smiles": "NCC1CCN(C(=O)C2=CC=C(SC3=C(Cl)C(N)=CC=C3)O2)CC1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 32, Compound_ID=28; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): []. Unspecified stereochemistry retained as supplied."
+  },
+  "29": {
+    "smiles": "NC1=CC=CC(SC2=CC=C(C(=O)N3CCC4(CC3)CC3=C(C=CC=C3)[C@H]4N)O2)=C1Cl",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 33, Compound_ID=29(SDUY104); drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): [(26, 'S')]. Unspecified stereochemistry retained as supplied."
+  },
+  "30": {
+    "smiles": "NC1=CC=CC(SC2=CC=C(C(=O)N3CCC4(CCC[C@H]4N)CC3)O2)=C1Cl",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 34, Compound_ID=30; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): [(20, 'R')]. Unspecified stereochemistry retained as supplied."
+  },
+  "31": {
+    "smiles": "NC1=CC=CC(SC2=CC=C(C(=O)N3CCC4(CC3)CC3=C(C=CC=C3F)[C@H]4N)O2)=C1Cl",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 35, Compound_ID=31; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): [(27, 'S')]. Unspecified stereochemistry retained as supplied."
+  },
+  "32": {
+    "smiles": "NC1=CC=CC(SC2=CC=C(C(=O)N3CCC4(CC3)CC3=C(C=CC(F)=C3)[C@H]4N)O2)=C1Cl",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 36, Compound_ID=32; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): [(27, 'S')]. Unspecified stereochemistry retained as supplied."
+  },
+  "33": {
+    "smiles": "NC1=CC=CC(SC2=CC=C(C(=O)N3CCC4(CC3)CC3=C(C=C(F)C=C3)[C@H]4N)O2)=C1Cl",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 37, Compound_ID=33; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): [(27, 'S')]. Unspecified stereochemistry retained as supplied."
+  },
+  "34": {
+    "smiles": "NC1=C(Cl)C(SC2=CC=C(C(=O)N3CCC4(CC3)CC3=C(C=CC=C3)[C@@H]4N)O2)=CC=C1",
+    "source": "data/raw/jm6c00836_si_004.csv, CSV row 38, Compound_ID=34; drawing checked against the published paper.",
+    "verified": true,
+    "stereo_note": "RDKit stereocenters (atom index, CIP label): [(25, 'R')]. Unspecified stereochemistry retained as supplied."
+  }
+}

@@ -1,0 +1,4 @@
+model,macro_family_MAE_pp
+mean_baseline,31.42837461796313
+nearest_neighbor,37.81928571428572
+random_forest,27.473171640166903

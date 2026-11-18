@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+__MACOSX/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Local environment secrets
+.env
+
+# Backup molecular structure files
+structures_backup_*.json
+
+# Compressed archives
+*.zip
+# Temporary notebook reproduction outputs
+results/reproduction_check/
+# Older nested-validation runs
+results/step8_nested_20261103_190722_793123/
+results/step8_nested_20261118_162837_476825/

@@ -1,0 +1,59 @@
+{
+  "created_utc": "2026-11-18T09:07:29.210750+00:00",
+  "input_source": "Frozen 35-compound structure/single-dose response subset of jm6c00836_si_004.csv; mapped to the original Tables 1\u20134 project records",
+  "source_csv_library_file_id": "libfile_9e924ac5acf8819193bca5880294234a",
+  "original_workbook_library_file_id": "libfile_53a7879353b481918927e2a7582dff68",
+  "dataset_sha256": "29a8da7add634c15da02458293cf08803afd62d7b93b96e92f68a3dd6863892b",
+  "candidates": [
+    {
+      "name": "sqrt_leaf2",
+      "max_features": "sqrt",
+      "min_samples_leaf": 2
+    },
+    {
+      "name": "sqrt_leaf1",
+      "max_features": "sqrt",
+      "min_samples_leaf": 1
+    },
+    {
+      "name": "all_leaf2",
+      "max_features": 1.0,
+      "min_samples_leaf": 2
+    },
+    {
+      "name": "all_leaf1",
+      "max_features": 1.0,
+      "min_samples_leaf": 1
+    }
+  ],
+  "n_estimators": 200,
+  "forest_seed": 42,
+  "primary_inner": "leave remaining family out",
+  "secondary_inner": "four connectivity-grouped folds, seed=1000+10*repeat+outer_fold",
+  "secondary_outer_seeds": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51
+  ],
+  "versions": {
+    "python": "3.11.17 (main, Oct 13 2026, 16:38:53) [Clang 21.1.8 ]",
+    "rdkit": "2026.09.1",
+    "sklearn": "1.9.1",
+    "numpy": "2.4.6",
+    "pandas": "3.0.6"
+  },
+  "original_score_check": {
+    "mean_baseline": true,
+    "nearest_neighbor": true,
+    "original_forest": true
+  },
+  "interpretation": "Internal adaptive follow-up; candidates were motivated by prior exploration. No independent external validation.",
+  "elapsed_seconds": 409.9130520409999
+}
