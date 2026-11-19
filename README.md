@@ -82,13 +82,11 @@ Python, RDKit, NumPy, pandas, scikit-learn, Matplotlib, and JupyterLab.
 
 ## 8. Limitations and Future Directions
 
-This is a retrospective analysis of 35 related compounds from one published study.
+This retrospective analysis used 35 related SHP2 inhibitors from a single published study. Repeated cross-validation assessed predictive performance across different splits of the same 35 compounds. Prediction errors increased when entire structural families were held out, suggesting that close analogues of the lead compound, SDUY104, are a reasonable starting point for prospective evaluation. The model also predicts a single endpoint, percent inhibition at 10 μM, which can obscure differences in potency. For example, SDUY104 and its enantiomer, compound 34, both showed 99% inhibition at 10 μM, yet their enzymatic IC₅₀ values differed by approximately 14-fold (0.14 and 2.0 μM, respectively).
 
-The validation results do not establish reliable predictive performance on entirely new chemical series. The repeated cross-validation estimates also reuse the same compounds and should not be interpreted as independent external validation.
+Future work could begin with a focused series of matched analogues of SDUY104. The first round would vary the central ring or linker one at a time to determine how each modification affects SHP2 inhibition. In parallel, we could compare spirocyclic and nonspiro terminal amines on the same scaffold. The lead’s (S)-benzospirocyclic amine is particularly worth exploring because analogues bearing this fragment had the lowest measured IC₅₀ within each of the three aryl groups examined. A second round could combine favorable ring and linker modifications with promising terminal amines to test whether their individual benefits persist in combination.
 
-Furthermore, the prediction target is single-concentration inhibition, which does not capture all aspects of compound potency.
-
-Future work could incorporate larger and more chemically diverse datasets, additional experimental measurements, and prospective evaluation of newly synthesized analogues.
+Before synthesis, we could use the model to predict each new analogue’s SHP2 inhibition at 10 μM and then compare that prediction with the experimentally measured value. After each round of testing, we could use the new data to refine the model and assess whether its predictions become more accurate for the next set of analogues. As more concentration–response data become available, we could also train the model to predict enzymatic IC₅₀ alongside single-concentration inhibition. This would help distinguish analogues that show similarly high inhibition at 10 μM but differ in potency. The ultimate goal is to predict SHP2 inhibitory activity reliably enough to prioritize promising analogues before synthesis and focus experimental resources on those most likely to improve on the lead compound.
 
 ## 9. Data Source and Reference
 
